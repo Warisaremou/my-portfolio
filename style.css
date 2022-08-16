@@ -53,7 +53,8 @@
     display: flex;
     align-items: center;
 }
-.logo img{
+
+.logo img {
     width: 25px;
     height: 25px;
     border-radius: 5px;
@@ -235,9 +236,11 @@ nav ul li a.active {
 .about-main-content p {
     margin-bottom: 20px;
 }
-.about-main-content a i{
-   margin-right: 5px;
+
+.about-main-content a i {
+    margin-right: 5px;
 }
+
 .about-main-content a {
     color: #000;
     border: 1px solid #000;
@@ -538,7 +541,7 @@ nav ul li a.active {
         align-items: center;
         text-align: center;
         transition: .5s ease-in-out;
-        padding: 20% 2% 90%;
+        padding: 5% 2% 50%;
         box-shadow: 0px 2px 9px #717179;
     }
 
